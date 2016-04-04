@@ -243,27 +243,26 @@ function create_config( )
     "joke",
     "tex",
     "calc",
-    "tosupport",
     "google",
     "weather",
     "getplug",
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {192765292,168980738,97422241},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[⚡️ Xamarin Anti Spam Bot v1.8
+    about_text = [[⚡️ ραяαđυχ Anti Spam Bot v18
     
-  📢 Channel : @DarkTeam
-  👤 Admin : @AmirDark
+  .
+  👤 Admin : @Xx_A_M_xX_bye_ethd
   
-  🙏 Special Thanks to :
+  .
   
-        @PokerFace_Dev
-        @ShahabDark
-        @MR_Flat
-        @SinaSereen
+        .
+        .
+        .
+        .
         
 📝 Please send your feedback
 The command /feedback [text]
@@ -346,7 +345,7 @@ Checkout yeo.ir/Xamarin
 
 ]],
     help_text = [[
-    
+        ραяαđυχ
 📝 ليست دستورات مدیریت گروه :
 
 🚫 حذف کردن کاربر
@@ -502,12 +501,8 @@ Checkout yeo.ir/Xamarin
 
 💬 راهنمای ربات (همین متن)
 !help
-
+           ραяαđυχ
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-⚠️ هرگونه سوال یا مشکل در ربات
-را از طریق دستور فیدبک برای مدیران
-ربات ارسال و منتظر جواب باشید.
 
 ⚠️  شما ميتوانيد از ! و / استفاده کنيد. 
 
@@ -515,7 +510,7 @@ Checkout yeo.ir/Xamarin
 
 ⚠️  تنها معاونان و مديران ميتوانند 
 جزييات مديريتی گروه را تغيير دهند.
-
+          ραяαđυχ
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 ]]
